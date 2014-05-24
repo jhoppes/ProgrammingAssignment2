@@ -1,5 +1,4 @@
-## Cache the inverse of a matrix.  In order to run this, 
-## the following package must be installed as shown:
+## Cache the inverse of a matrix
 
 ## Creates a special matrix object that can cache its inverse
 
